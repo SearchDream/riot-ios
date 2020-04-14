@@ -6,6 +6,7 @@ Improvements:
 
 Bug fix:
  * KeyVerificationSelfVerifyStartViewController has no navigation (#3195).
+ * PushNotificationService: Move all notification related code to a new class (PR #3100).
 
 Changes in 0.11.2 (2020-05-01)
 ===============================================
